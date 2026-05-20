@@ -25,7 +25,7 @@ public final class TopSentinelMailGallery {
     private static final String DEFAULT_DB_DRIVER = "oracle.jdbc.driver.OracleDriver";
     private static final String DEFAULT_DB_URL = "jdbc:oracle:thin:@topgate1_sfe:1534/TOPGATE1";
     private static final String DEFAULT_DB_USER = "TOPDBF";
-    private static final String DEFAULT_DB_PASSWORD = "caponord01";
+    private static final String DEFAULT_DB_PASSWORD = "";
     private static final String DEFAULT_MAIL_ENDPOINT = "http://topmail:9096/TopMail.asmx";
     private static final String DEFAULT_MAIL_LOG_DIR = "\\\\pvtopesb\\e$\\TopSentinelMailGallery\\logs";
     private static final int DEFAULT_TIMEOUT_MS = 5000;
